@@ -4,7 +4,7 @@ namespace HospiEnCasa.App.Dominio
 {
 
 ///<sumary> Class <c>Persona</c>
-/// Modela una Persona en el sistema
+/// Modela una Persona en el sistema, estamos realizando ahora un nuevo cambio
 ///</sumary>
 
     public class Persona
